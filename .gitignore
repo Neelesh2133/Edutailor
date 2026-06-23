@@ -1,0 +1,52 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+**/venv/
+**/.venv/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data and Databases
+**/chroma_store/
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Build and distribution directories
+dist/
+build/
+out/
+.next/
+
+# Editor and System files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+Thumbs.db

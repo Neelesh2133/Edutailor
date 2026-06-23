@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Python Basics",
+    "description": "Learn variables, loops, functions, and OOP concepts.",
+    "level": "Beginner",
+    "career_paths": ["AI Engineer", "Software Engineer", "Data Scientist"],
+    "skills": ["python", "programming", "logic"],
+    "duration": "2 Weeks",
+    "resource": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+  },
+  {
+    "title": "Mathematics for Machine Learning",
+    "description": "Linear algebra, probability, calculus for AI.",
+    "level": "Beginner",
+    "career_paths": ["AI Engineer", "ML Engineer"],
+    "skills": ["math", "statistics"],
+    "duration": "3 Weeks",
+    "resource": "https://www.coursera.org/specializations/mathematics-machine-learning"
+  },
+  {
+    "title": "Data Structures and Algorithms",
+    "description": "Arrays, linked lists, trees, recursion, searching, sorting.",
+    "level": "Intermediate",
+    "career_paths": ["Software Engineer"],
+    "skills": ["dsa", "problem solving"],
+    "duration": "4 Weeks",
+    "resource": "https://www.geeksforgeeks.org/data-structures/"
+  },
+  {
+    "title": "Machine Learning Fundamentals",
+    "description": "Regression, classification, clustering and evaluation.",
+    "level": "Intermediate",
+    "career_paths": ["AI Engineer", "ML Engineer"],
+    "skills": ["machine learning", "scikit-learn"],
+    "duration": "4 Weeks",
+    "resource": "https://www.coursera.org/learn/machine-learning"
+  },
+  {
+    "title": "Deep Learning",
+    "description": "Neural networks, CNNs, RNNs, transformers.",
+    "level": "Advanced",
+    "career_paths": ["AI Researcher", "AI Engineer"],
+    "skills": ["deep learning", "tensorflow", "pytorch"],
+    "duration": "5 Weeks",
+    "resource": "https://www.deeplearning.ai/"
+  }
+]

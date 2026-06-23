@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+pandas
+scikit-learn
+joblib
+numpy
+xgboost
+lightgbm
+imbalanced-learn
