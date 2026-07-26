@@ -178,7 +178,7 @@ uvicorn app:app --host 127.0.0.1 --port 8000
 ```
 *The backend service will run at `http://127.0.0.1:8000`.*
 
-### Step 2: Start the Vite Frontend
+### Step 2: Start the Vite Frontend [vc]
 ```bash
 cd edutailor-ai/frontend
 npm run dev
