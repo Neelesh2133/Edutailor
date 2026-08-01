@@ -59,7 +59,7 @@ graph TD
 
 ---
 
-## 📊 Machine Learning Pipeline & Metrics
+## 📊 Machine Learning Pipeline & Metrices
 
 The ML diagnostic engine is trained on the renowned **Open University Learning Analytics Dataset (OULAD)**, analyzing a total of **41 distinct student features** split across four sectors:
 * **Demographics**: Education levels, age bands, index of multiple deprivation (IMD), disability status.
